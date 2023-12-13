@@ -1,4 +1,4 @@
-# ML_Honors_Project
+# Project Description
 
 Originally, this project aimed to take student usage data from the Las Positas College tutoring center and fit this dataset to a polynomial regression model. The vision for this model was to predict the busiest times that students visit the center. The Initial LPC tutoring center analysis file displays the attempted polynomial regression fitting of the data gathered by the LPC tutoring center. However, upon creating various scatter plots, it is evident that the significant fluctuation in the data does not lend itself well for the polynomial regression model.
 
