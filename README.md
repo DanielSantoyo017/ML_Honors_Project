@@ -1,1 +1,7 @@
 # ML_Honors_Project
+
+Originally, this project aimed to take student usage data from the Las Positas College tutoring center and fit this dataset to a polynomial regression model. The vision for this model was to predict the busiest times that students visit the center. The Initial LPC tutoring center analysis file displays the attempted polynomial regression fitting of the data gathered by the LPC tutoring center. However, upon creating various scatter plots, it is evident that the significant fluctuation in the data does not lend itself well for the polynomial regression model.
+
+In the interest of research integrity, the project's scope was modified so that other features of the raw dataset could be used to still accomplish training a machine-learning model. The file titled Calc Honors Project contains the analysis of the LPC tutoring center with respect to student churn.
+
+The LPC data churn analysis starts with a breakdown of the dataset and next goes into univariate and bivariate analysis. This analysis assists us in understanding the trends that are related to or not associated with the likelihood of student churn. Lastly, the dataset is completely transformed into numerical data to pass through the machine learning model. This project completed exploratory data analysis and the creation of a machine learning model with an acceptable accuracy prediction score. The next step for this model would be deployment as a website for users to interact with and understand the churn likelihood based on the behavior tendencies of customers.
